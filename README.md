@@ -1,1 +1,1 @@
-# Coursera_Capstone_DS_Final
+In this notebook we will find the Capstone Final Practices related to the IBM Data Science Professional Certificate delivered by Coursera
